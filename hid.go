@@ -1,4 +1,4 @@
-// Sent command to USB via HID. Uses library from github.com/karalabe/usb
+// Send command to USB via HID. Uses library from github.com/karalabe/usb
 //
 
 package main
