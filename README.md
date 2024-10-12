@@ -1,4 +1,4 @@
-This program allows command line control of the origina; version of the HiTechAstro Mount Hub Pro. It looks like this:
+This program allows command line control of the original version of the HiTechAstro Mount Hub Pro. It looks like this:
 
 <img src="https://i.imgur.com/6VYarDZ.jpeg" alt="MHP">
 
